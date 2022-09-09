@@ -1,0 +1,1 @@
+expect(function () {}).to.not.throw();
